@@ -1,0 +1,89 @@
+TBreadth First Search
+v7
+r0
+t308345150.433405
+cCheck dependencies
+cCompileC "build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/node.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/Breadth First Search.LinkFileList
+c000000004CB0C1BD0000000000000150
+t1286652349
+s336
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/main.o
+t1286652350
+s67048
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/node.o
+t2
+s0
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/Breadth First Search
+t2
+s0
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp
+c000000004CB0BFB3000000000000008F
+t1286651827
+s143
+i<iostream>
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp
+c000000004CB0C10D00000000000000A7
+t1286652173
+s167
+i"node.h"
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h
+c000000004CB0C1B7000000000000011A
+t1286652343
+s282
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308345149#308345149#0(0"0(0#1#0"7018106993184568320#0"0#
+
+CCompileC "build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308345149.093257
+e308345150.433054
+r1
+xCompileC
+xbuild/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp308345149#308345150#0(0"0(0#0#81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp8317418936017776640#1921"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp" -o "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC "build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/node.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308345149.155994
+e308345149.496353
+r0
+xCompileC
+xbuild/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/node.o
+x/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp:10:
+o/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:16: error: declaration does not declare anything
+o/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:17: error: expected unqualified-id before 'int'
+o/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:17: error: expected `)' before 'int'
+o/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:18: error: ISO C++ forbids declaration of 'node' with no type
+o/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:18: error: expected ';' before 'left'
+o/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:19: error: ISO C++ forbids declaration of 'node' with no type
+o/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:19: error: expected ';' before 'right'
+o/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:20: error: expected unqualified-id at end of input
+lSLF07#2@89"Compile /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308345149#308345149#0(1134"In file included from /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp:10:/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:16: error: declaration does not declare anything/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:17: error: expected unqualified-id before 'int'/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:17: error: expected `)' before 'int'/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:18: error: ISO C++ forbids declaration of 'node' with no type/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:18: error: expected ';' before 'left'/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:19: error: ISO C++ forbids declaration of 'node' with no type/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:19: error: expected ';' before 'right'/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h:20: error: expected unqualified-id at end of input8(4@37"Declaration does not declare anything308345149#108#129#2(7@103"In file included from /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308345149#18446744073709551615#0#0(6@81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308344973#10#0#10#0#0"0(13@120"Declaration does not declare anything in /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345149#18446744073709551615#0#0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#16#0#16#0#0"0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#16#0#16#0#0"0(4@36"Expected unqualified-id before 'int'308345149#237#128#2(7@103"In file included from /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308345149#18446744073709551615#0#0(6@81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308344973#10#0#10#0#0"0(13@119"Expected unqualified-id before 'int' in /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345149#18446744073709551615#0#0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#17#0#17#0#0"0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#17#0#17#0#19"expected * before *0(4@25"Expected `)' before 'int'308345149#365#117#2(7@103"In file included from /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308345149#18446744073709551615#0#0(6@81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308344973#10#0#10#0#0"0(13@108"Expected `)' before 'int' in /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345149#18446744073709551615#0#0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#17#0#17#0#0"0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#17#0#17#0#19"expected * before *0(4@50"ISO C++ forbids declaration of 'node' with no type308345149#482#142#2(7@103"In file included from /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308345149#18446744073709551615#0#0(6@81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308344973#10#0#10#0#0"0(13@133"ISO C++ forbids declaration of 'node' with no type in /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345149#18446744073709551615#0#0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#18#0#18#0#0"0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#18#0#18#0#47"ISO C++ forbids declaration of '*' with no type0(4@26"Expected ';' before 'left'308345149#624#118#2(7@103"In file included from /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308345149#18446744073709551615#0#0(6@81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308344973#10#0#10#0#0"0(13@109"Expected ';' before 'left' in /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345149#18446744073709551615#0#0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#18#0#18#0#0"0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#18#0#18#0#19"expected * before *0(4@50"ISO C++ forbids declaration of 'node' with no type308345149#742#142#2(7@103"In file included from /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308345149#18446744073709551615#0#0(6@81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308344973#10#0#10#0#0"0(13@133"ISO C++ forbids declaration of 'node' with no type in /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345149#18446744073709551615#0#0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#19#0#19#0#0"0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#19#0#19#0#47"ISO C++ forbids declaration of '*' with no type0(4@27"Expected ';' before 'right'308345149#884#119#2(7@103"In file included from /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308345149#18446744073709551615#0#0(6@81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308344973#10#0#10#0#0"0(13@110"Expected ';' before 'right' in /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345149#18446744073709551615#0#0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#19#0#19#0#0"0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#19#0#19#0#19"expected * before *0(4@39"Expected unqualified-id at end of input308345149#1003#131#2(7@103"In file included from /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308345149#18446744073709551615#0#0(6@81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308344973#10#0#10#0#0"0(13@122"Expected unqualified-id at end of input in /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345149#18446744073709551615#0#0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#20#0#20#0#0"0(6@79"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h308345143#20#0#20#0#0"0(0#0#81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp8610980704#1921"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp" -o "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/node.o"1#
+
+CLd "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/Breadth First Search" normal x86_64
+r0
+

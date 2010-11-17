@@ -1,0 +1,59 @@
+TOverloading Constructors
+v7
+r0
+t301871311.637413
+cCheck dependencies
+cCompileC "build/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug/Overloading Constructors" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug/Overloading Constructors
+t1280178462
+s17976
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/Overloading Constructors.LinkFileList
+c000000004C4DF8F200000000000000BB
+t1280178418
+s187
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/main.o
+t1280178462
+s76080
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp
+c000000004C4DF90400000000000001F7
+t1280178436
+s503
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301871311#301871311#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s301871261.696642
+e301871262.117465
+r1
+xCompileC
+xbuild/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp301871261#301871262#0(0"0(0#0#92"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp4300911832#2114"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Overloading Constructors-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Overloading Constructors-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Overloading Constructors-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Overloading Constructors-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug/Overloading Constructors" normal x86_64
+s301871262.117582
+e301871262.226992
+r1
+xLd
+x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug/Overloading Constructors
+xnormal
+xx86_64
+lSLF07#2@125"Link /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug/Overloading Constructors301871262#301871262#0(0"0(0#0#0"4300911832#801"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug" -filelist "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/Overloading Constructors.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug/Overloading Constructors"0#
+

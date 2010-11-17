@@ -1,0 +1,59 @@
+TClass Constructors
+v7
+r0
+t301869929.852466
+cCheck dependencies
+cCompileC "build/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug/Class Constructors" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/Class Constructors.LinkFileList
+c000000004C4DEFB900000000000000A9
+t1280176057
+s169
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/main.o
+t1280177124
+s68772
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug/Class Constructors
+t1280177129
+s11168
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp
+c000000004C4DF3E40000000000000251
+t1280177124
+s593
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301869929#301869929#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s301869929.657366
+e301869929.659040
+r1
+xCompileC
+xbuild/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp301869929#301869929#0(0"0(0#0#86"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp4300911832#1940"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Class Constructors-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Class Constructors-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Class Constructors-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Class Constructors-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug/Class Constructors" normal x86_64
+s301869929.659116
+e301869929.852407
+r1
+xLd
+x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug/Class Constructors
+xnormal
+xx86_64
+lSLF07#2@113"Link /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug/Class Constructors301869929#301869929#0(0"0(0#0#0"4300911832#747"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug" -filelist "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/Class Constructors.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug/Class Constructors"0#
+

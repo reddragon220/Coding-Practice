@@ -1,0 +1,59 @@
+TInsertion Sort
+v7
+r0
+t306970259.955738
+cCheck dependencies
+cCompileC "build/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug/Insertion Sort" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug/Insertion Sort
+t1285277459
+s16528
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/Insertion Sort.LinkFileList
+c000000004C99530E0000000000000096
+t1285116686
+s150
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/main.o
+t1285277249
+s74280
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp
+c000000004C9BC73C0000000000000883
+t1285277500
+s2179
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306970259#306970259#0(0"0(0#1#0"8612202464#0"0#
+
+CCompileC "build/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s306970259.928596
+e306970259.929827
+r1
+xCompileC
+xbuild/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306970259#306970259#0(0"0(0#0#75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp8612022752#1747"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Insertion Sort-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Insertion Sort-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Insertion Sort-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Insertion Sort-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp" -o "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug/Insertion Sort" normal x86_64
+s306970259.929897
+e306970259.955684
+r1
+xLd
+x/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug/Insertion Sort
+xnormal
+xx86_64
+lSLF07#2@98"Link /Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug/Insertion Sort306970259#306970259#0(0"0(0#0#0"8610862720#676"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug" -filelist "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/Insertion Sort.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug/Insertion Sort"0#
+

@@ -1,0 +1,59 @@
+TTemplate
+v7
+r0
+t307392609.818669
+cCheck dependencies
+cCompileC build/Template.build/Debug/Template.build/Objects-normal/x86_64/main.o "/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug/Template" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug/Template
+t1285699809
+s11864
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Objects-normal/x86_64/Template.LinkFileList
+c000000004CA238D50000000000000084
+t1285699797
+s132
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Objects-normal/x86_64/main.o
+t1285699806
+s71928
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp
+c000000004CA238DE00000000000001AD
+t1285699806
+s429
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307392609#307392609#0(0"0(0#1#0"8609184544#0"0#
+
+CCompileC build/Template.build/Debug/Template.build/Objects-normal/x86_64/main.o "/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307392609.401575
+e307392609.402708
+r1
+xCompileC
+xbuild/Template.build/Debug/Template.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp307392609#307392609#0(0"0(0#0#69"/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp3917909816998063104#1573"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Template"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Template-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Template-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Template-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Template-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp" -o "/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug/Template" normal x86_64
+s307392609.402778
+e307392609.818600
+r1
+xLd
+x/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug/Template
+xnormal
+xx86_64
+lSLF07#2@86"Link /Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug/Template307392609#307392609#0(0"0(0#0#0"8609134464#622"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Template"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug" -filelist "/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Objects-normal/x86_64/Template.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug/Template"0#
+

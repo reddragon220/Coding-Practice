@@ -1,0 +1,85 @@
+Tconstructor practice
+v7
+r0
+t301851148.815001
+cCheck dependencies
+cCompileC "build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug/constructor practice" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/build/Debug/constructor practice
+t1280158348
+s16120
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/constructor practice.LinkFileList
+c000000004C4DA7EF00000000000000C4
+t1280157679
+s196
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o
+t1280158347
+s71252
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug/constructor practice
+t1280158348
+s16120
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/constructor practice.LinkFileList
+c000000004C4DA7EF00000000000000C4
+t1280157679
+s196
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o
+t1280158347
+s71252
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp
+c000000004C4DAA8B000000000000022F
+t1280158347
+s559
+i<iostream>
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/main.cpp
+c000000004C4DAA8B000000000000022F
+t1280158347
+s559
+i<iostream>
+i<string>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301851148#301851148#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s301851148.789283
+e301851148.790550
+r1
+xCompileC
+xbuild/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301851148#301851148#0(0"0(0#0#109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp4300911832#2229"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/constructor practice-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/constructor practice-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/constructor practice-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/constructor practice-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC "build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/build/Debug/constructor practice" normal x86_64
+r0
+
+CLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug/constructor practice" normal x86_64
+s301851148.790625
+e301851148.814938
+r1
+xLd
+x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug/constructor practice
+xnormal
+xx86_64
+lSLF07#2@138"Link /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug/constructor practice301851148#301851148#0(0"0(0#0#0"4300911832#870"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug" -filelist "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/constructor practice.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug/constructor practice"0#
+

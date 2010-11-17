@@ -1,0 +1,91 @@
+TBreadth First Search
+v7
+r0
+t308351487.374100
+cCheck dependencies
+cCompileC "build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/node.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/Breadth First Search" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/Breadth First Search.LinkFileList
+c000000004CB0C1BD0000000000000150
+t1286652349
+s336
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/main.o
+t1286658687
+s126928
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/node.o
+t1286657644
+s51500
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/Breadth First Search
+t1286658687
+s39512
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp
+c000000004CB0DA7E00000000000003AC
+t1286658686
+s940
+i<iostream>
+i<queue>
+i"node.h"
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp
+c000000004CB0D66B0000000000000275
+t1286657643
+s629
+i"node.h"
+i<iostream>
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.h
+c000000004CB0D660000000000000018B
+t1286657632
+s395
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308351487#308351487#0(0"0(0#1#0"8617309504#0"0#
+
+CCompileC "build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308351487.244529
+e308351487.350653
+r1
+xCompileC
+xbuild/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp308351487#308351487#0(0"0(0#0#81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp8615534400#1921"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/main.cpp" -o "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC "build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/node.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308350445.489950
+e308350445.491095
+r1
+xCompileC
+xbuild/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/node.o
+x/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp308350445#308350445#0(0"0(0#0#81"/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp8616096576#1921"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Breadth First Search-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/node.cpp" -o "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/node.o"0#
+
+CLd "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/Breadth First Search" normal x86_64
+s308351487.350857
+e308351487.374041
+r1
+xLd
+x/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/Breadth First Search
+xnormal
+xx86_64
+lSLF07#2@110"Link /Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/Breadth First Search308351487#308351487#0(0"0(0#0#0"8611936928#730"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug" -filelist "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Breadth First Search.build/Debug/Breadth First Search.build/Objects-normal/x86_64/Breadth First Search.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/Algorithms Review/Breadth First Search/build/Debug/Breadth First Search"0#
+

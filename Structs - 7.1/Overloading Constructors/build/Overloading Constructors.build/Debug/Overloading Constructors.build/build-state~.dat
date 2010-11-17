@@ -1,0 +1,51 @@
+TOverloading Constructors
+v7
+r0
+t301871218.426517
+cCheck dependencies
+cCompileC "build/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug/Overloading Constructors
+t2
+s0
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/Overloading Constructors.LinkFileList
+c000000004C4DF8F200000000000000BB
+t1280178418
+s187
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp
+c000000004C4DF8EE00000000000001F6
+t1280178414
+s502
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301871218#301871218#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s301871218.424227
+e301871218.426449
+r0
+xCompileC
+xbuild/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp301871218#301871218#0(1342"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp:18:10: warning: missing terminating " characterIn file included from /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp:5:/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/sale.h: In constructor 'Sale::Sale()':/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/sale.h:21: error: 'taxrate' was not declared in this scope/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/sale.h:23: error: expected `;' before '}' token/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp: In function 'int main(int, char* const*)':/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp:14: error: expected `;' before 'cout'/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp:18: error: missing terminating " character/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp:19: error: expected primary-expression before 'return'/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp:19: error: expected `;' before 'return'7(22@31"Missing terminating " character301871218#0#141#0(6@92"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp301871214#18#0#18#0#0"0(4@40"'taxrate' was not declared in this scope301871218#382#143#2(7@114"In file included from /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp301871218#18446744073709551615#0#0(6@92"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp301871214#5#0#5#0#0"0(13@134"'taxrate' was not declared in this scope in /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/sale.h301871218#18446744073709551615#0#0(6@90"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/sale.h301870897#21#0#21#0#0"0(6@90"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/sale.h301870897#21#0#21#0#34"'*' was not declared in this scope0(4@29"Expected `;' before '}' token301871218#525#132#2(7@114"In file included from /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp301871218#18446744073709551615#0#0(6@92"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp301871214#5#0#5#0#0"0(13@123"Expected `;' before '}' token in /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/sale.h301871218#18446744073709551615#0#0(6@90"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/sale.h301870897#23#0#23#0#0"0(6@90"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/sale.h301870897#23#0#23#0#19"expected * before *0(4@26"Expected `;' before 'cout'301871218#794#131#0(6@92"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp301871214#14#0#14#0#19"expected * before *0(4@31"Missing terminating " character301871218#925#136#0(6@92"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp301871214#18#0#18#0#0"0(4@43"Expected primary-expression before 'return'301871218#1061#148#0(6@92"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp301871214#19#0#19#0#19"expected * before *0(4@28"Expected `;' before 'return'301871218#1209#133#0(6@92"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp301871214#19#0#19#0#19"expected * before *0(0#0#92"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp4300911832#2114"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Overloading Constructors-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Overloading Constructors-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Overloading Constructors-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Overloading Constructors-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Overloading Constructors.build/Debug/Overloading Constructors.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Overloading Constructors/build/Debug/Overloading Constructors" normal x86_64
+r0
+

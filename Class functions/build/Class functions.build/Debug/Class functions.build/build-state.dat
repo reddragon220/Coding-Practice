@@ -1,0 +1,59 @@
+TClass functions
+v7
+r0
+t306703749.814634
+cCheck dependencies
+cCompileC "build/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug/Class functions" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/Class functions.LinkFileList
+c000000004C97B0970000000000000094
+t1285009559
+s148
+
+N/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/main.o
+t1285010949
+s77032
+
+N/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug/Class functions
+t1285010949
+s17264
+
+N/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp
+c000000004C97B6040000000000000425
+t1285010948
+s1061
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306703749#306703749#0(0"0(0#1#0"8611302784#0"0#
+
+CCompileC "build/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s306703749.380093
+e306703749.791579
+r1
+xCompileC
+xbuild/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp306703749#306703749#0(0"0(0#0#71"/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp8615707808#1721"    cd "/Users/Alexander/Documents/Coding/C++ Practice/Class functions"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Class functions-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Class functions-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Class functions-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Class functions-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug/Class functions" normal x86_64
+s306703749.791742
+e306703749.814579
+r1
+xLd
+x/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug/Class functions
+xnormal
+xx86_64
+lSLF07#2@95"Link /Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug/Class functions306703749#306703749#0(0"0(0#0#0"8615740768#660"    cd "/Users/Alexander/Documents/Coding/C++ Practice/Class functions"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug" "-F/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug" -filelist "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/Class functions.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug/Class functions"0#
+

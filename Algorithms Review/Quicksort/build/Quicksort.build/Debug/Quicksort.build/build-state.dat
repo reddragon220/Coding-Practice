@@ -1,0 +1,59 @@
+TQuicksort
+v7
+r0
+t308083203.658923
+cCheck dependencies
+cCompileC build/Quicksort.build/Debug/Quicksort.build/Objects-normal/x86_64/main.o "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Debug/Quicksort" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Debug/Quicksort
+t1286390403
+s29472
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Quicksort.build/Debug/Quicksort.build/Objects-normal/x86_64/Quicksort.LinkFileList
+c000000004CACADD00000000000000087
+t1286385104
+s135
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Quicksort.build/Debug/Quicksort.build/Objects-normal/x86_64/main.o
+t1286390400
+s107320
+
+N/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/main.cpp
+c000000004CACC3800000000000000499
+t1286390656
+s1177
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308083203#308083203#0(0"0(0#1#0"8599206336#0"0#
+
+CCompileC build/Quicksort.build/Debug/Quicksort.build/Objects-normal/x86_64/main.o "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308083203.627827
+e308083203.629033
+r1
+xCompileC
+xbuild/Quicksort.build/Debug/Quicksort.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/main.cpp308083203#308083203#0(0"0(0#0#70"/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/main.cpp8611006304#1602"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Quicksort.build/Debug/Quicksort.build/Quicksort-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Quicksort.build/Debug/Quicksort.build/Quicksort-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Quicksort.build/Debug/Quicksort.build/Quicksort-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Quicksort.build/Debug/Quicksort.build/Quicksort-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Debug" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Quicksort.build/Debug/Quicksort.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Quicksort.build/Debug/Quicksort.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/main.cpp" -o "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Quicksort.build/Debug/Quicksort.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Debug/Quicksort" normal x86_64
+s308083203.629100
+e308083203.658864
+r1
+xLd
+x/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Debug/Quicksort
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Debug/Quicksort308083203#308083203#0(0"0(0#0#0"8613991584#631"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Debug" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Debug" -filelist "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Quicksort.build/Debug/Quicksort.build/Objects-normal/x86_64/Quicksort.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/build/Debug/Quicksort"0#
+

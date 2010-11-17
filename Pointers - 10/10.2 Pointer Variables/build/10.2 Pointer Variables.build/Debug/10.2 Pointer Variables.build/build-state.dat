@@ -1,0 +1,59 @@
+T10.2 Pointer Variables
+v7
+r0
+t306704596.098974
+cCheck dependencies
+cCompileC "build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/Debug/10.2 Pointer Variables" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/Objects-normal/x86_64/10.2 Pointer Variables.LinkFileList
+c000000004C97B8EF00000000000000B5
+t1285011695
+s181
+
+N/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/Objects-normal/x86_64/main.o
+t1285011794
+s67844
+
+N/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/Debug/10.2 Pointer Variables
+t1285011794
+s11008
+
+N/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/main.cpp
+c000000004C97B9510000000000000177
+t1285011793
+s375
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306704596#306704596#0(0"0(0#1#0"8610699712#0"0#
+
+CCompileC "build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s306704594.203249
+e306704594.209573
+r1
+xCompileC
+xbuild/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/main.cpp306704594#306704594#0(0"0(0#0#90"/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/main.cpp8609328128#2056"    cd "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/10.2 Pointer Variables-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/10.2 Pointer Variables-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/10.2 Pointer Variables-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/10.2 Pointer Variables-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/Debug/10.2 Pointer Variables" normal x86_64
+s306704594.209660
+e306704594.242857
+r1
+xLd
+x/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/Debug/10.2 Pointer Variables
+xnormal
+xx86_64
+lSLF07#2@121"Link /Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/Debug/10.2 Pointer Variables306704594#306704594#0(0"0(0#0#0"8611127552#783"    cd "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/Debug" "-F/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/Debug" -filelist "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/10.2 Pointer Variables.build/Debug/10.2 Pointer Variables.build/Objects-normal/x86_64/10.2 Pointer Variables.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/C++ Practice/10 Pointers/10.2 Pointer Variables/build/Debug/10.2 Pointer Variables"0#
+

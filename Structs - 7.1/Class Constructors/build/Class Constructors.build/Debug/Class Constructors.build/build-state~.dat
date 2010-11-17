@@ -1,0 +1,51 @@
+TClass Constructors
+v7
+r0
+t301868857.150207
+cCheck dependencies
+cCompileC "build/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/Class Constructors.LinkFileList
+c000000004C4DEFB900000000000000A9
+t1280176057
+s169
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug/Class Constructors
+t2
+s0
+
+N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp
+c000000004C4DEFB20000000000000153
+t1280176050
+s339
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301868857#301868857#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s301868857.148930
+e301868857.150155
+r0
+xCompileC
+xbuild/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp301868857#301868857#0(521"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp: In constructor 'Demo::Demo()':/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp:9: error: 'cout' was not declared in this scope/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp: In function 'int main(int, char* const*)':/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp:13: error: 'cout' was not declared in this scope2(4@37"'cout' was not declared in this scope301868857#119#135#0(6@86"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp301868850#9#0#9#0#34"'*' was not declared in this scope0(4@37"'cout' was not declared in this scope301868857#385#136#0(6@86"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp301868850#13#0#13#0#34"'*' was not declared in this scope0(0#0#86"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp4300911832#1940"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Class Constructors-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Class Constructors-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Class Constructors-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Class Constructors-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Class Constructors.build/Debug/Class Constructors.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Constructors/build/Debug/Class Constructors" normal x86_64
+r0
+
