@@ -1,14 +1,14 @@
 THeap Sort
 v7
 r0
-t308086395.757107
+t314497134.317972
 cCheck dependencies
-cCompileC "build/Heap Sort.build/Debug/Heap Sort.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-cLd "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Debug/Heap Sort" normal x86_64
+cCompileC "build/Heap Sort.build/Debug/Heap Sort.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Debug/Heap Sort" normal x86_64
 
 N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
+c000000004CF94D9D00000000000000EE
+t1291406749
 s238
 
 N/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Debug/Heap Sort
@@ -31,9 +31,29 @@ s1741
 i<iostream>
 i<vector>
 
+N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Debug/Heap Sort
+t1292804334
+s29464
+
+N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Objects-normal/x86_64/Heap Sort.LinkFileList
+c000000004D0E93FF0000000000000094
+t1292801023
+s148
+
+N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Objects-normal/x86_64/main.o
+t1292804333
+s107764
+
+N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/main.cpp
+c000000004D0EA0EC0000000000000729
+t1292804332
+s1833
+i<iostream>
+i<vector>
+
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies308086395#308086395#0(0"0(0#1#0"8614897184#0"0#
+lSLF07#2@18"Check dependencies314497134#314497134#0(0"0(0#1#0"8612152768#0"0#
 
 CCompileC "build/Heap Sort.build/Debug/Heap Sort.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
 s308086395.723657
@@ -48,6 +68,19 @@ xc++
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@78"Compile /Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/main.cpp308086395#308086395#0(0"0(0#0#70"/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/main.cpp8611584640#1602"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Heap Sort-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Heap Sort-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Heap Sort-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Heap Sort-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Debug" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/main.cpp" -o "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Objects-normal/x86_64/main.o"0#
 
+CCompileC "build/Heap Sort.build/Debug/Heap Sort.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s314497134.189264
+e314497134.190911
+r1
+xCompileC
+xbuild/Heap Sort.build/Debug/Heap Sort.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/main.cpp314497134#314497134#0(0"0(0#0#83"/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/main.cpp8613234336#1745"    cd "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Heap Sort-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Heap Sort-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Heap Sort-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Heap Sort-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Objects-normal/x86_64/main.o"0#
+
 CLd "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Debug/Heap Sort" normal x86_64
 s308086395.733878
 e308086395.757053
@@ -57,4 +90,14 @@ x/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Debug/Heap 
 xnormal
 xx86_64
 lSLF07#2@88"Link /Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Debug/Heap Sort308086395#308086395#0(0"0(0#0#0"8616845952#631"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Debug" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Debug" -filelist "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Objects-normal/x86_64/Heap Sort.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/Algorithms Review/Heap Sort/build/Debug/Heap Sort"0#
+
+CLd "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Debug/Heap Sort" normal x86_64
+s314497134.190977
+e314497134.317915
+r1
+xLd
+x/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Debug/Heap Sort
+xnormal
+xx86_64
+lSLF07#2@101"Link /Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Debug/Heap Sort314497134#314497134#0(0"0(0#0#0"8612958336#696"    cd "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Debug" "-F/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Debug" -filelist "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Heap Sort.build/Debug/Heap Sort.build/Objects-normal/x86_64/Heap Sort.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Heap Sort/build/Debug/Heap Sort"0#
 

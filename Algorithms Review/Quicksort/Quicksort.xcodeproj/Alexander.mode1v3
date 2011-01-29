@@ -273,7 +273,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {186, 673}}</string>
+							<string>{{0, 0}, {186, 607}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -285,14 +285,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {203, 691}}</string>
+						<string>{{0, 0}, {203, 625}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>0 146 1440 732 0 0 1440 878 </string>
+						<string>50 212 1180 666 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -322,12 +322,12 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>11DD95EC125D016F00319614</string>
+										<string>11EB40B112D3A99800A91FDB</string>
 										<key>history</key>
 										<array>
 											<string>11DD95E8125D016F00319614</string>
 											<string>11DD95E9125D016F00319614</string>
-											<string>11DD95EB125D016F00319614</string>
+											<string>118BEBB212C1254300B00911</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -339,14 +339,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1232, 505}}</string>
+								<string>{{0, 0}, {972, 424}}</string>
 								<key>RubberWindowFrame</key>
-								<string>0 146 1440 732 0 0 1440 878 </string>
+								<string>50 212 1180 666 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>505pt</string>
+							<string>424pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -359,18 +359,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 510}, {1232, 181}}</string>
+								<string>{{0, 429}, {972, 196}}</string>
 								<key>RubberWindowFrame</key>
-								<string>0 146 1440 732 0 0 1440 878 </string>
+								<string>50 212 1180 666 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>181pt</string>
+							<string>196pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>1232pt</string>
+					<string>972pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -385,9 +385,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>11DD953A125CE1B100319614</string>
+				<string>11EB40AE12D3A86D00A91FDB</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>11DD953B125CE1B100319614</string>
+				<string>11EB40AF12D3A86D00A91FDB</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -525,15 +525,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>11DD955F125CE60D00319614</string>
-		<string>11DD9560125CE60D00319614</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>11DD953D125CE1B100319614</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>/Users/Alexander/Documents/Coding/Algorithms Review/Quicksort/Quicksort.xcodeproj</string>
+		<string>/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Quicksort/Quicksort.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>0 146 1440 732 0 0 1440 878 </string>
+	<string>50 212 1180 666 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -610,7 +606,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>11DD953D125CE1B100319614</string>
-				<string>11DD953E125CE1B100319614</string>
+				<string>11EB40B012D3A86D00A91FDB</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

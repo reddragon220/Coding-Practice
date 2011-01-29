@@ -1,0 +1,44 @@
+Document in both the code and in a readme so that someone can succesfully run it:
+How to Run the Applications:
+    $ ./knp.o
+    Please enter the name of the file to be searchd:
+    file_name.txt
+    $ small.txt
+    Please enter the string of text that you are searching for:
+    $ ipsum
+
+
+What I learned:
+When we talk about asymptotic time complexity the advantages of a clever approach to a
+problem only become apparent when dealing with enormous inputs. KMP's compelxity is O(n+k)
+where the n is the length of the text and k is the length of string and the naive linear
+implementation has a runtime of O(nk). While I understood that there is a very big
+difference between the two run times the benifits of n+k vs. nk only became apparent after
+dealing with enormous amounts of text.
+
+Just to visualize the amount of characters needed to begin seeing a dramatic difference
+between the speeds of the two algorithms:
+ - The King James Bible has 4,233,213 characters
+ - The 'large' text file would be 23.6 King James Bibles.
+ - And despite the difference in algorithmic complexity you only see a modest gain of
+   28 seconds.
+
+I'm sure that when dealing with hundreds and hundreds of tera-bytes of data these seconds
+will quickly add up and soon become hours saved by smartly implementing a better designed
+algorithm. It's honestly kind of surprising to see it in action.
+ 
+So what algorithm you choose to use to tackle a problem in the real is really world is
+very subjective. You have to keep in mind the benifits of implementing a more complex and
+asymptotically better solution and look at how much time you have to build it. Building
+the KNP-Matcher and hunting down all of the bugs took about a solid day but implementing
+the naive solution was easily done in much less time.
+ 
+The following graph shows the amount of time needed to search an amount of characters for
+the string 'ipsum'.
+                        # of characters
+        'small'           'medium'          'large'
+        10,000             10,000,000        100,000,000  
+knp     0 sec              26 sec            261 sec
+naive   0 sec              28 sec            289 sec
+------------------------------------------------------
+diff    0 sec               2 sec             28 sec

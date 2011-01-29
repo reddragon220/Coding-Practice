@@ -1,0 +1,51 @@
+TDepth First Search
+v7
+r0
+t315430443.398096
+cCheck dependencies
+cCompileC "build/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CF94D9D00000000000000EE
+t1291406749
+s238
+
+N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug/Depth First Search
+t2
+s0
+
+N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/Depth First Search.LinkFileList
+c000000004D1CDEAB00000000000000AF
+t1293737643
+s175
+
+N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp
+c000000004D1CDE9F00000000000000D0
+t1293737631
+s208
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315430443#315430443#0(0"0(0#1#0"9007637348679712#0"0#
+
+CCompileC "build/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s315430443.374697
+e315430443.398028
+r0
+xCompileC
+xbuild/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/main.o
+x/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp315430443#315430443#0(133"/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp:6: error: 'colors' does not name a type1(4@29"'colors' does not name a type315430443#0#133#0(6@92"/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp315430431#6#0#6#0#24"'*' does not name a type0(0#0#92"/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp4697084414016119808#2006"    cd "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Depth First Search-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Depth First Search-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Depth First Search-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Depth First Search-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug/Depth First Search" normal x86_64
+r0
+

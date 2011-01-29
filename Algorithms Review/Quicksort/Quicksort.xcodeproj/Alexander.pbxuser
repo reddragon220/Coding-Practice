@@ -16,9 +16,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					993,
+					733,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -33,14 +33,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 308076949;
-			PBXWorkspaceStateSaveDate = 308076949;
+			PBXPerProjectTemplateStateSaveDate = 315861094;
+			PBXWorkspaceStateSaveDate = 315861094;
 		};
 		perUserProjectItems = {
+			118BEBB212C1254300B00911 /* PBXTextBookmark */ = 118BEBB212C1254300B00911 /* PBXTextBookmark */;
 			11DD95E8125D016F00319614 /* PBXTextBookmark */ = 11DD95E8125D016F00319614 /* PBXTextBookmark */;
 			11DD95E9125D016F00319614 /* PBXTextBookmark */ = 11DD95E9125D016F00319614 /* PBXTextBookmark */;
-			11DD95EB125D016F00319614 /* PBXTextBookmark */ = 11DD95EB125D016F00319614 /* PBXTextBookmark */;
-			11DD95EC125D016F00319614 /* PBXTextBookmark */ = 11DD95EC125D016F00319614 /* PBXTextBookmark */;
+			11EB40B112D3A99800A91FDB /* PBXTextBookmark */ = 11EB40B112D3A99800A91FDB /* PBXTextBookmark */;
 		};
 		sourceControlManager = 11DD953F125CE1B100319614 /* Source Control */;
 		userBuildSettings = {
@@ -48,10 +48,20 @@
 	};
 	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 728}}";
-			sepNavSelRange = "{874, 0}";
-			sepNavVisRange = "{0, 796}";
+			sepNavIntBoundsRect = "{{0, 0}, {911, 871}}";
+			sepNavSelRange = "{1020, 0}";
+			sepNavVisRange = "{751, 426}";
 		};
+	};
+	118BEBB212C1254300B00911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 44";
+		rLen = 0;
+		rLoc = 874;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 0;
 	};
 	11DD9526125CE19500319614 /* Quicksort */ = {
 		isa = PBXExecutable;
@@ -121,29 +131,20 @@
 	};
 	11DD95EA125D016F00319614 /* stl_algobase.h */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
 		name = stl_algobase.h;
 		path = "/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/stl_algobase.h";
 		sourceTree = "<absolute>";
 	};
-	11DD95EB125D016F00319614 /* PBXTextBookmark */ = {
+	11EB40B112D3A99800A91FDB /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
-		name = "main.cpp: 45";
-		rLen = 26;
-		rLoc = 930;
-		rType = 0;
-		vrLen = 510;
-		vrLoc = 751;
-	};
-	11DD95EC125D016F00319614 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
-		name = "main.cpp: 44";
+		name = "main.cpp: 51";
 		rLen = 0;
-		rLoc = 874;
+		rLoc = 1020;
 		rType = 0;
-		vrLen = 796;
-		vrLoc = 0;
+		vrLen = 426;
+		vrLoc = 751;
 	};
 	8DD76F620486A84900D96B5E /* Quicksort */ = {
 		activeExec = 0;
