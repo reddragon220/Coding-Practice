@@ -1,62 +1,0 @@
-TClass functions
-v7
-r0
-t306702361.217954
-cCheck dependencies
-cCompileC "build/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
-s238
-
-N/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/Class functions.LinkFileList
-c000000004C97B0970000000000000094
-t1285009559
-s148
-
-N/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/main.o
-t2
-s0
-
-N/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug/Class functions
-t2
-s0
-
-N/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp
-c000000004C97B09400000000000001A7
-t1285009556
-s423
-i<iostream>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies306702359#306702359#0(0"0(0#1#0"31244212048494624#0"0#
-
-CCompileC "build/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s306702359.532994
-e306702361.217698
-r0
-xCompileC
-xbuild/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/main.o
-x/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-o/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:16:9: warning: character constant too long for its type
-o/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:15: error: function definition does not declare parameters
-o/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp: In function 'void set_name(std::string)':
-o/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:21: error: 'name' was not declared in this scope
-o/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp: In function 'void set_nubmer(int)':
-o/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:25: error: 'number' was not declared in this scope
-o/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp: In function 'int main(int, char* const*)':
-o/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:6: error: 'std::string testing::name' is private
-o/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:31: error: within this context
-o/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:7: error: 'int testing::number' is private
-o/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:31: error: within this context
-lSLF07#2@79"Compile /Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp306702359#306702361#0(1285"/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:16:9: warning: character constant too long for its type/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:15: error: function definition does not declare parameters/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp: In function 'void set_name(std::string)':/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:21: error: 'name' was not declared in this scope/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp: In function 'void set_nubmer(int)':/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:25: error: 'number' was not declared in this scope/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp: In function 'int main(int, char* const*)':/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:6: error: 'std::string testing::name' is private/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:31: error: within this context/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:7: error: 'int testing::number' is private/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp:31: error: within this context8(22@40"Character constant too long for its type306702360#0#128#0(6@71"/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp306702356#16#0#16#0#0"0(4@47"Function definition does not declare parameters306702360#128#131#0(6@71"/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp306702356#15#0#15#0#0"0(4@37"'name' was not declared in this scope306702360#374#121#0(6@71"/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp306702356#21#0#21#0#34"'*' was not declared in this scope0(4@39"'number' was not declared in this scope306702360#604#123#0(6@71"/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp306702356#25#0#25#0#34"'*' was not declared in this scope0(4@38"'std::string testing::name' is private306702360#843#121#0(6@71"/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp306702356#6#0#6#0#0"0(4@19"Within this context306702360#964#103#0(6@71"/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp306702356#31#0#31#0#0"0(4@32"'int testing::number' is private306702360#1067#115#0(6@71"/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp306702356#7#0#7#0#0"0(4@19"Within this context306702360#1182#103#0(6@71"/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp306702356#31#0#31#0#0"0(0#0#71"/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp7162247752870487040#1721"    cd "/Users/Alexander/Documents/Coding/C++ Practice/Class functions"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Class functions-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Class functions-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Class functions-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Class functions-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Class functions.build/Debug/Class functions.build/Objects-normal/x86_64/main.o"1#
-
-CLd "/Users/Alexander/Documents/Coding/C++ Practice/Class functions/build/Debug/Class functions" normal x86_64
-r0
-

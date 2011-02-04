@@ -1,51 +1,0 @@
-TMerge Sort
-v7
-r0
-t307391185.245080
-cCheck dependencies
-cCompileC "build/Merge Sort.build/Debug/Merge Sort.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
-s238
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Debug/Merge Sort
-t2
-s0
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Merge Sort.build/Debug/Merge Sort.build/Objects-normal/x86_64/Merge Sort.LinkFileList
-c000000004CA23351000000000000008A
-t1285698385
-s138
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Merge Sort.build/Debug/Merge Sort.build/Objects-normal/x86_64/main.o
-t2
-s0
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp
-c000000004CA2334C0000000000000099
-t1285698380
-s153
-i<iostream>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies307391185#307391185#0(0"0(0#1#0"3343187568374212096#0"0#
-
-CCompileC "build/Merge Sort.build/Debug/Merge Sort.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s307391185.219199
-e307391185.244691
-r0
-xCompileC
-xbuild/Merge Sort.build/Debug/Merge Sort.build/Objects-normal/x86_64/main.o
-x/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@79"Compile /Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp307391185#307391185#0(344"/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp: In function 'int main(int, char* const*)':/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp:7: error: expected ',' or ';' before 'return'/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp:5: warning: unused variable 'numbers'2(4@35"Expected ',' or ';' before 'return'307391185#116#118#0(6@71"/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp307391180#7#0#7#0#19"expected * before *0(22@25"Unused variable 'numbers'307391185#234#110#0(6@71"/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp307391180#5#0#5#0#19"unused variable '*'0(0#0#71"/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp3417213339966598656#1631"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Merge Sort.build/Debug/Merge Sort.build/Merge Sort-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Merge Sort.build/Debug/Merge Sort.build/Merge Sort-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Merge Sort.build/Debug/Merge Sort.build/Merge Sort-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Merge Sort.build/Debug/Merge Sort.build/Merge Sort-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Debug" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Merge Sort.build/Debug/Merge Sort.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Merge Sort.build/Debug/Merge Sort.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/main.cpp" -o "/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Merge Sort.build/Debug/Merge Sort.build/Objects-normal/x86_64/main.o"1#
-
-CLd "/Users/Alexander/Documents/Coding/Algorithms Review/Merge Sort/build/Debug/Merge Sort" normal x86_64
-r0
-

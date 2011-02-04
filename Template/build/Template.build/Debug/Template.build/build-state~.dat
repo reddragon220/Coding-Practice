@@ -1,51 +1,0 @@
-TTemplate
-v7
-r0
-t307392597.418834
-cCheck dependencies
-cCompileC build/Template.build/Debug/Template.build/Objects-normal/x86_64/main.o "/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
-s238
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug/Template
-t2
-s0
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Objects-normal/x86_64/Template.LinkFileList
-c000000004CA238D50000000000000084
-t1285699797
-s132
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Objects-normal/x86_64/main.o
-t2
-s0
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp
-c000000004CA238D400000000000001AC
-t1285699796
-s428
-i<iostream>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies307392597#307392597#0(0"0(0#1#0"3343187568374212096#0"0#
-
-CCompileC build/Template.build/Debug/Template.build/Objects-normal/x86_64/main.o "/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s307392597.390154
-e307392597.418237
-r0
-xCompileC
-xbuild/Template.build/Debug/Template.build/Objects-normal/x86_64/main.o
-x/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@77"Compile /Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp307392597#307392597#0(208"/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp: In function 'T square(T)':/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp:9: error: expected ';' before '}' token1(4@29"Expected ';' before '}' token307392597#98#110#0(6@69"/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp307392596#9#0#9#0#19"expected * before *0(0#0#69"/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp3917909816998063104#1573"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Template"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Template-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Template-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Template-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Template-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Algorithms Review/Template/main.cpp" -o "/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Template.build/Debug/Template.build/Objects-normal/x86_64/main.o"1#
-
-CLd "/Users/Alexander/Documents/Coding/Algorithms Review/Template/build/Debug/Template" normal x86_64
-r0
-

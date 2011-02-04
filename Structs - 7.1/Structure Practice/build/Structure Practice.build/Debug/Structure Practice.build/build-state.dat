@@ -1,59 +1,0 @@
-TStructure Practice
-v7
-r0
-t301849453.022569
-cCheck dependencies
-cCompileC "build/Structure Practice.build/Debug/Structure Practice.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-cLd "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Debug/Structure Practice" normal x86_64
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
-s238
-
-N/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Debug/Structure Practice
-t1280156652
-s12016
-
-N/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Structure Practice.build/Debug/Structure Practice.build/Objects-normal/x86_64/Structure Practice.LinkFileList
-c000000004C4DA0F500000000000000BB
-t1280155893
-s187
-
-N/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Structure Practice.build/Debug/Structure Practice.build/Objects-normal/x86_64/main.o
-t1280156652
-s72636
-
-N/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/main.cpp
-c000000004C4DA3E9000000000000032F
-t1280156649
-s815
-i<iostream>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies301849450#301849450#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC "build/Structure Practice.build/Debug/Structure Practice.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s301849450.446375
-e301849452.417750
-r1
-xCompileC
-xbuild/Structure Practice.build/Debug/Structure Practice.build/Objects-normal/x86_64/main.o
-x/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@112"Compile /Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/main.cpp301849450#301849452#0(0"0(0#0#104"/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/main.cpp4300911832#2138"    cd "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Structure Practice.build/Debug/Structure Practice.build/Structure Practice-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Structure Practice.build/Debug/Structure Practice.build/Structure Practice-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Structure Practice.build/Debug/Structure Practice.build/Structure Practice-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Structure Practice.build/Debug/Structure Practice.build/Structure Practice-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Debug" "-I/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Structure Practice.build/Debug/Structure Practice.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Structure Practice.build/Debug/Structure Practice.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/main.cpp" -o "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Structure Practice.build/Debug/Structure Practice.build/Objects-normal/x86_64/main.o"0#
-
-CLd "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Debug/Structure Practice" normal x86_64
-s301849452.417962
-e301849453.022513
-r1
-xLd
-x/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Debug/Structure Practice
-xnormal
-xx86_64
-lSLF07#2@131"Link /Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Debug/Structure Practice301849452#301849453#0(0"0(0#0#0"4300911832#837"    cd "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Debug" "-F/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Debug" -filelist "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Structure Practice.build/Debug/Structure Practice.build/Objects-normal/x86_64/Structure Practice.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/Learn Objective-C/C++ Practice/7.1 Structs/Structure Practice/build/Debug/Structure Practice"0#
-

@@ -1,77 +1,0 @@
-TInsertion Sort
-v7
-r0
-t306809487.241116
-cCheck dependencies
-cCompileC "build/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
-s238
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug/Insertion Sort
-t2
-s0
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/Insertion Sort.LinkFileList
-c000000004C99530E0000000000000096
-t1285116686
-s150
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/main.o
-t2
-s0
-
-N/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp
-c000000004C99530B0000000000000352
-t1285116683
-s850
-i<iostream>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies306809486#306809486#0(0"0(0#1#0"8612312768#0"0#
-
-CCompileC "build/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s306809486.431384
-e306809487.241035
-r0
-xCompileC
-xbuild/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/main.o
-x/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:9: error: ISO C++ forbids initialization of member 'size'
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:9: error: making 'size' static
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:9: error: ISO C++ forbids in-class initialization of non-const static member 'size'
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:10: error: 'my_array::numbers' cannot appear in a constant-expression
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:10: error: `&' cannot appear in a constant-expression
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:10: error: ISO C++ forbids initialization of member 'ptr_numbers'
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:10: error: making 'ptr_numbers' static
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:10: error: invalid in-class initialization of static data member of non-integral type 'int*'
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'b' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'c' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'd' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'e' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'f' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'g' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:22: error: new types may not be defined in a return type
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:22: note: (perhaps a semicolon is missing after the definition of 'my_array')
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:22: error: no 'my_array my_array::myarray()' member function declared in class 'my_array'
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'b' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'c' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'd' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'e' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'f' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'g' has not been declared
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: two or more data types in declaration of 'set_numbers'
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp: In function 'int main(int, char* const*)':
-o/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:44: warning: unused variable 'eight_numbers'
-lSLF07#2@83"Compile /Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809486#306809487#0(3295"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:9: error: ISO C++ forbids initialization of member 'size'/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:9: error: making 'size' static/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:9: error: ISO C++ forbids in-class initialization of non-const static member 'size'/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:10: error: 'my_array::numbers' cannot appear in a constant-expression/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:10: error: `&' cannot appear in a constant-expression/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:10: error: ISO C++ forbids initialization of member 'ptr_numbers'/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:10: error: making 'ptr_numbers' static/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:10: error: invalid in-class initialization of static data member of non-integral type 'int*'/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'b' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'c' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'd' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'e' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'f' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:13: error: 'g' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:22: error: new types may not be defined in a return type/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:22: note: (perhaps a semicolon is missing after the definition of 'my_array')/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:22: error: no 'my_array my_array::myarray()' member function declared in class 'my_array'/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'b' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'c' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'd' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'e' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'f' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: 'g' has not been declared/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:32: error: two or more data types in declaration of 'set_numbers'/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp: In function 'int main(int, char* const*)':/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp:44: warning: unused variable 'eight_numbers'25(4@47"ISO C++ forbids initialization of member 'size'306809487#0#134#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#9#0#9#0#0"0(4@20"Making 'size' static306809487#134#107#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#9#0#9#0#0"0(4@73"ISO C++ forbids in-class initialization of non-const static member 'size'306809487#241#160#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#9#0#9#0#0"0(4@58"'my_array::numbers' cannot appear in a constant-expression306809487#401#146#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#10#0#10#0#0"0(4@42"`&' cannot appear in a constant-expression306809487#547#130#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#10#0#10#0#0"0(4@54"ISO C++ forbids initialization of member 'ptr_numbers'306809487#677#142#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#10#0#10#0#0"0(4@27"Making 'ptr_numbers' static306809487#819#115#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#10#0#10#0#0"0(4@81"Invalid in-class initialization of static data member of non-integral type 'int*'306809487#934#169#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#10#0#10#0#0"0(4@25"'b' has not been declared306809487#1103#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#13#0#13#0#25"'*' has not been declared0(4@25"'c' has not been declared306809487#1216#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#13#0#13#0#25"'*' has not been declared0(4@25"'d' has not been declared306809487#1329#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#13#0#13#0#25"'*' has not been declared0(4@25"'e' has not been declared306809487#1442#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#13#0#13#0#25"'*' has not been declared0(4@25"'f' has not been declared306809487#1555#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#13#0#13#0#25"'*' has not been declared0(4@25"'g' has not been declared306809487#1668#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#13#0#13#0#25"'*' has not been declared0(4@45"New types may not be defined in a return type306809487#1781#133#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#22#0#22#0#0"0(13@67"(perhaps a semicolon is missing after the definition of 'my_array')306809487#1914#154#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#22#0#22#0#0"0(4@78"No 'my_array my_array::myarray()' member function declared in class 'my_array'306809487#2068#166#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#22#0#22#0#0"0(4@25"'b' has not been declared306809487#2234#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#32#0#32#0#25"'*' has not been declared0(4@25"'c' has not been declared306809487#2347#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#32#0#32#0#25"'*' has not been declared0(4@25"'d' has not been declared306809487#2460#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#32#0#32#0#25"'*' has not been declared0(4@25"'e' has not been declared306809487#2573#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#32#0#32#0#25"'*' has not been declared0(4@25"'f' has not been declared306809487#2686#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#32#0#32#0#25"'*' has not been declared0(4@25"'g' has not been declared306809487#2799#113#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#32#0#32#0#25"'*' has not been declared0(4@54"Two or more data types in declaration of 'set_numbers'306809487#2912#142#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#32#0#32#0#0"0(22@31"Unused variable 'eight_numbers'306809487#3174#121#0(6@75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp306809483#44#0#44#0#19"unused variable '*'0(0#0#75"/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp8611131136#1747"    cd "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Insertion Sort-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Insertion Sort-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Insertion Sort-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Insertion Sort-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug/include" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/main.cpp" -o "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Insertion Sort.build/Debug/Insertion Sort.build/Objects-normal/x86_64/main.o"1#
-
-CLd "/Users/Alexander/Documents/Coding/Algorithms Review/Insertion Sort/build/Debug/Insertion Sort" normal x86_64
-r0
-

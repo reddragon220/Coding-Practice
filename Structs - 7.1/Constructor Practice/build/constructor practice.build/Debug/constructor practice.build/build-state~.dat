@@ -1,51 +1,0 @@
-Tconstructor practice
-v7
-r0
-t301850479.314876
-cCheck dependencies
-cCompileC "build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
-s238
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug/constructor practice
-t2
-s0
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/constructor practice.LinkFileList
-c000000004C4DA7EF00000000000000C4
-t1280157679
-s196
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o
-t2
-s0
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp
-c000000004C4DA7ED0000000000000238
-t1280157677
-s568
-i<iostream>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies301850479#301850479#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC "build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s301850479.312963
-e301850479.314822
-r0
-xCompileC
-xbuild/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o
-x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@117"Compile /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301850479#301850479#0(1854"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp:6: error: 'population' does not name a type/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp: In function 'int main(int, char* const*)':/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp:16: error: no matching function for call to 'PopInfo::PopInfo(const char [8], int)'/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp:4: note: candidates are: PopInfo::PopInfo()/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp:4: note:                 PopInfo::PopInfo(const PopInfo&)/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp:17: error: no matching function for call to 'PopInfo::PopInfo(const char [11], int)'/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp:4: note: candidates are: PopInfo::PopInfo()/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp:4: note:                 PopInfo::PopInfo(const PopInfo&)/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp:21: error: 'struct PopInfo' has no member named 'population'/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp:22: error: 'struct PopInfo' has no member named 'population'/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp:23: error: 'struct PopInfo' has no member named 'population'10(4@33"'population' does not name a type301850479#0#154#0(6@109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301850477#6#0#6#0#24"'*' does not name a type0(4@72"No matching function for call to 'PopInfo::PopInfo(const char [8], int)'301850479#308#194#0(6@109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301850477#16#0#16#0#0"0(13@34"Candidates are: PopInfo::PopInfo()301850479#502#154#0(6@109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301850477#4#0#4#0#0"0(13@32"PopInfo::PopInfo(const PopInfo&)301850479#656#168#0(6@109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301850477#4#0#4#0#0"0(4@73"No matching function for call to 'PopInfo::PopInfo(const char [11], int)'301850479#824#195#0(6@109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301850477#17#0#17#0#0"0(13@34"Candidates are: PopInfo::PopInfo()301850479#1019#154#0(6@109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301850477#4#0#4#0#0"0(13@32"PopInfo::PopInfo(const PopInfo&)301850479#1173#168#0(6@109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301850477#4#0#4#0#0"0(4@49"'struct PopInfo' has no member named 'population'301850479#1341#171#0(6@109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301850477#21#0#21#0#27"'*' has no member named '*'0(4@49"'struct PopInfo' has no member named 'population'301850479#1512#171#0(6@109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301850477#22#0#22#0#27"'*' has no member named '*'0(4@49"'struct PopInfo' has no member named 'population'301850479#1683#171#0(6@109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp301850477#23#0#23#0#27"'*' has no member named '*'0(0#0#109"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp4300911832#2229"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/constructor practice-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/constructor practice-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/constructor practice-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/constructor practice-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/constructor practice.build/Debug/constructor practice.build/Objects-normal/x86_64/main.o"1#
-
-CLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Constructor Practice/constructor practice/build/Debug/constructor practice" normal x86_64
-r0
-

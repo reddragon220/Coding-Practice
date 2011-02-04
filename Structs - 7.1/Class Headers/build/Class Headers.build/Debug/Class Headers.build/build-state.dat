@@ -1,88 +1,0 @@
-TClass Headers
-v7
-r0
-t301868505.535854
-cCheck dependencies
-cCompileC "build/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC "build/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/rectangle.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/rectangle.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-cLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug/Class Headers" normal x86_64
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
-s238
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/Class Headers.LinkFileList
-c000000004C4DEDF90000000000000139
-t1280175609
-s313
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/main.o
-t1280175698
-s71472
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/rectangle.o
-t1280175702
-s4904
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug/Class Headers
-t1280175705
-s12112
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/main.cpp
-c000000004C4DEE0A0000000000000271
-t1280175626
-s625
-i<iostream>
-i"rectangle.h"
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/rectangle.cpp
-c000000004C4DEE5600000000000001DA
-t1280175702
-s474
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/rectangle.h
-c000000004C4DEE480000000000000173
-t1280175688
-s371
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies301868505#301868505#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC "build/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s301868497.911733
-e301868498.296595
-r1
-xCompileC
-xbuild/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/main.o
-x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@89"Compile /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/main.cpp301868497#301868498#0(0"0(0#0#81"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/main.cpp4300911832#1795"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Class Headers-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Class Headers-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Class Headers-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Class Headers-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/main.o"0#
-
-CCompileC "build/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/rectangle.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/rectangle.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s301868505.302595
-e301868505.303739
-r1
-xCompileC
-xbuild/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/rectangle.o
-x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/rectangle.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@94"Compile /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/rectangle.cpp301868505#301868505#0(0"0(0#0#86"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/rectangle.cpp4300911832#1805"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Class Headers-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Class Headers-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Class Headers-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Class Headers-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/rectangle.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/rectangle.o"0#
-
-CLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug/Class Headers" normal x86_64
-s301868505.303801
-e301868505.535748
-r1
-xLd
-x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug/Class Headers
-xnormal
-xx86_64
-lSLF07#2@103"Link /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug/Class Headers301868505#301868505#0(0"0(0#0#0"4300911832#702"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug" -filelist "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Class Headers.build/Debug/Class Headers.build/Objects-normal/x86_64/Class Headers.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Class Headers/build/Debug/Class Headers"0#
-

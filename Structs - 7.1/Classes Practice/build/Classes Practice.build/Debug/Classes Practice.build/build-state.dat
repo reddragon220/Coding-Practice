@@ -1,59 +1,0 @@
-TClasses Practice
-v7
-r0
-t301852272.880013
-cCheck dependencies
-cCompileC "build/Classes Practice.build/Debug/Classes Practice.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-cLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Debug/Classes Practice" normal x86_64
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
-s238
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Classes Practice.build/Debug/Classes Practice.build/Objects-normal/x86_64/Classes Practice.LinkFileList
-c000000004C4DAE4900000000000000A3
-t1280159305
-s163
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Classes Practice.build/Debug/Classes Practice.build/Objects-normal/x86_64/main.o
-t1280159472
-s69344
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Debug/Classes Practice
-t1280159472
-s11464
-
-N/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/main.cpp
-c000000004C4DAED700000000000001B4
-t1280159447
-s436
-i<iostream>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies301852272#301852272#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC "build/Classes Practice.build/Debug/Classes Practice.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s301852272.483258
-e301852272.858295
-r1
-xCompileC
-xbuild/Classes Practice.build/Debug/Classes Practice.build/Objects-normal/x86_64/main.o
-x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@92"Compile /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/main.cpp301852272#301852272#0(0"0(0#0#84"/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/main.cpp4300911832#1882"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Classes Practice.build/Debug/Classes Practice.build/Classes Practice-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Classes Practice.build/Debug/Classes Practice.build/Classes Practice-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Classes Practice.build/Debug/Classes Practice.build/Classes Practice-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Classes Practice.build/Debug/Classes Practice.build/Classes Practice-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Classes Practice.build/Debug/Classes Practice.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Classes Practice.build/Debug/Classes Practice.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Classes Practice.build/Debug/Classes Practice.build/Objects-normal/x86_64/main.o"0#
-
-CLd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Debug/Classes Practice" normal x86_64
-s301852272.858406
-e301852272.879948
-r1
-xLd
-x/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Debug/Classes Practice
-xnormal
-xx86_64
-lSLF07#2@109"Link /Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Debug/Classes Practice301852272#301852272#0(0"0(0#0#0"4300911832#729"    cd "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Debug" "-F/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Debug" -filelist "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Classes Practice.build/Debug/Classes Practice.build/Objects-normal/x86_64/Classes Practice.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/C++ Practice/7.1 Structs/Classes Practice/build/Debug/Classes Practice"0#
-

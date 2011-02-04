@@ -1,59 +1,0 @@
-TDepth First Search
-v7
-r0
-t315768456.628892
-cCheck dependencies
-cCompileC "build/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-cLd "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug/Depth First Search" normal x86_64
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004CF94D9D00000000000000EE
-t1291406749
-s238
-
-N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug/Depth First Search
-t1294075656
-s11472
-
-N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/Depth First Search.LinkFileList
-c000000004D1CDEAB00000000000000AF
-t1293737643
-s175
-
-N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/main.o
-t1294075653
-s70320
-
-N/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp
-c000000004D22070500000000000003D4
-t1294075653
-s980
-i<iostream>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies315768456#315768456#0(0"0(0#1#0"8612997216#0"0#
-
-CCompileC "build/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/main.o" "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s315768456.537662
-e315768456.545370
-r1
-xCompileC
-xbuild/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/main.o
-x/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@100"Compile /Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp315768456#315768456#0(0"0(0#0#92"/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp8614421920#2006"    cd "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Depth First Search-generated-files.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Depth First Search-own-target-headers.hmap" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Depth First Search-all-target-headers.hmap" -iquote "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Depth First Search-project-headers.hmap" "-F/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug/include" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/DerivedSources/x86_64" "-I/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/DerivedSources" -c "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/main.cpp" -o "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/main.o"0#
-
-CLd "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug/Depth First Search" normal x86_64
-s315768456.545448
-e315768456.628825
-r1
-xLd
-x/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug/Depth First Search
-xnormal
-xx86_64
-lSLF07#2@119"Link /Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug/Depth First Search315768456#315768456#0(0"0(0#0#0"8594850432#777"    cd "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug" "-F/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug" -filelist "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Depth First Search.build/Debug/Depth First Search.build/Objects-normal/x86_64/Depth First Search.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Alexander/Documents/Coding/C++ Practice/Algorithms Review/Depth First Search/build/Debug/Depth First Search"0#
-
